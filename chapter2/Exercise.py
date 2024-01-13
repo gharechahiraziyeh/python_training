@@ -36,3 +36,7 @@ gh = int(input("Enter ghaede: "))
 er = int(input("Enter ertefae: "))
 s = 0.5 * gh * er
 print("masahat: ", s)
+# ------------8-----------
+s = int(input("Enter sen: "))
+year = s + 100
+print("year=", year)
