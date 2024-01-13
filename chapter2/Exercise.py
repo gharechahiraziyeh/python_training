@@ -18,3 +18,10 @@ masahat = 3.14 * (r ** 2)
 mohit = 2 * 3.14 * r
 print("masahat: ", masahat)
 print("mohit: ", mohit)
+# ----------5------------
+x = int(input("Enter x: "))
+y = int(input("Enter y: "))
+print("x + y =", x + y)
+print("x - y =", x - y)
+print("x * y =", x * y)
+print("x ^ y =", x ** y)
