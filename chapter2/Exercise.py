@@ -25,3 +25,9 @@ print("x + y =", x + y)
 print("x - y =", x - y)
 print("x * y =", x * y)
 print("x ^ y =", x ** y)
+# -------------6-----------------
+a = int(input("Enter a: "))
+b = int(input("Enter b: "))
+c = int(input("Enter c: "))
+ave = (a + b + c) / 3
+print("average: ", ave)
