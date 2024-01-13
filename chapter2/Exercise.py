@@ -12,3 +12,9 @@ print("masahat=", s)
 C = int(input("Enter c: "))
 F = C * 1.8 + 32
 print("Farnhait=", F)
+# -----------4---------
+r = int(input("Enter r: "))
+masahat = 3.14 * (r ** 2)
+mohit = 2 * 3.14 * r
+print("masahat: ", masahat)
+print("mohit: ", mohit)
