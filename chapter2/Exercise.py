@@ -31,3 +31,8 @@ b = int(input("Enter b: "))
 c = int(input("Enter c: "))
 ave = (a + b + c) / 3
 print("average: ", ave)
+# ------------7------------
+gh = int(input("Enter ghaede: "))
+er = int(input("Enter ertefae: "))
+s = 0.5 * gh * er
+print("masahat: ", s)
