@@ -14,3 +14,13 @@ print(x, "+", y, "=", x + y)
 print(x, "-", y, "=", x - y)
 print(x, "*", y, "=", x * y)
 print(x, "/", y, "=", x / y)
+# 4-برنامه ای بنویسید که یک عدد سه رقمی را از کاربر دریافت کند و ارقام آن را چاپ کند
+x = int(input("Enter x: "))
+temp = x % 10
+print(temp)
+x = x // 10
+temp = x % 10
+print(temp)
+x = x // 10
+temp = x % 10
+print(temp)
