@@ -7,3 +7,10 @@ x = int(input("Enter x: "))
 y = int(input("Enter y: "))
 s = 0.5 * x * y
 print("s= ", s)
+# 3-برنامه ای بنویسید که یک ماشین حساب ساده طراحی کند و جمع و ضرب و تفریق و تقسیم دو عدد را انجام دهد
+x = int(input("Enter x: "))
+y = int(input("Enter y: "))
+print(x, "+", y, "=", x + y)
+print(x, "-", y, "=", x - y)
+print(x, "*", y, "=", x * y)
+print(x, "/", y, "=", x / y)
