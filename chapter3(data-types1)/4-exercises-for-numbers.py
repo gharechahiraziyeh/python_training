@@ -15,3 +15,10 @@ x = int(input("Enter x: "))
 y = int(input("Enter y: "))
 xy = x ** y
 print(x, "^", y, "=", xy)
+# 4-برنامه ای بنویسید که سه عدد را گرفته میانگین آنها را محاسبه و نتیجه را چاپ کند
+x = int(input("Enter x: "))
+y = int(input("Enter y: "))
+z = int(input("Enter z: "))
+ave = (x + y + z) / 3
+print("Average= ", ave)
+
