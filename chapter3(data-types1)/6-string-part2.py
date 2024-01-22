@@ -1,0 +1,16 @@
+# ---------1---------------
+s = "reza dolati"
+print(s[0])
+print(s[-1])
+print(s[8])
+print(s[2:5])
+print(s[2:-3])
+print(s[:-2])
+print(s[5:])
+print(s[0:5] + s[5:])
+print(s[0:4:2])
+print(s[::2])
+print(s[:12])
+print(len(s))
+print(s[len(s) - 1])
+print(s[::-1])
