@@ -8,3 +8,6 @@ print("number of sentences: ", sentences)
 print("number of words: ", words)
 print("number of characters: ", characters)
 print("number of letters: ", letters)
+# یک کارکتر از کاربر بگیرید و یونیکد آن را چاپ کنید
+char = input("Enter char: ")
+print(ord(char))
