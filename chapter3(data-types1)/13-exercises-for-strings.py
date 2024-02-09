@@ -11,3 +11,6 @@ print("number of letters: ", letters)
 # یک کارکتر از کاربر بگیرید و یونیکد آن را چاپ کنید
 char = input("Enter char: ")
 print(ord(char))
+# یک شماره همراه را از کاربر بگیرید و بررسی کنید آیا تمام ارقامآن عدد هست یا خیر
+phone = input("Enter number: ")
+print(phone.isnumeric())
