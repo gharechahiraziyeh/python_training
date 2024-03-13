@@ -48,3 +48,4 @@ for a, b, c in [[1, 2, 3], [4, 5, 6], [7, 8, 9]]:
 d = {"A": 1, "B": 2, "C": 3}
 for key, value in d.items():
     print(key, ":", value)
+
